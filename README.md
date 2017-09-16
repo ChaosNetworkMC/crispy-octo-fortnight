@@ -16,6 +16,8 @@ Add suggestions/bugs in issues.
 
 10 Emeralds - 1 Paper Bill
 
+1 Paper Bill - 10 Emeralds
+
 ### Timelord Trader:
 5 Paper Bill - 1 Tardis Seed Block
 
